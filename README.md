@@ -7,7 +7,7 @@
 ├── data                              <- Data in raw form, transformed or data from third party sources
 │    │
 │    ├── data_3_raw.csv               <- The original, immutable data dump
-│    ├── data_pre.csv      	          <- Final preprocessed data
+│    ├── data_pre.csv                 <- Final preprocessed data
 │    ├── interim.csv                  <- Data after Optimal Binning and WoE tranformation (not included in final analysis)
 │    ├── metrics.csv                  <- Evaluation metrics export for models used in this project 
 │
