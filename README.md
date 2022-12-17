@@ -20,7 +20,7 @@
 │    ├── main.ipynb                   <- Final notebook
 │
 ├── README.md                         <- The top-level README for readers of this project
-├── requirements.txt                  <- requirements including necessary packages (and their versions) for project reproducability
+├── requirements.txt                  <- requirements including necessary packages (and their versions) for project reproducibility
 ```
 
 ### Installing the enviroment
